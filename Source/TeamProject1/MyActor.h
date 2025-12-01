@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 // MyActor.h
 
+=======
+>>>>>>> main
 #pragma once
 
 #include "CoreMinimal.h"
@@ -10,10 +13,16 @@ UCLASS()
 class TEAMPROJECT1_API AMyActor : public AActor
 {
 	GENERATED_BODY()
+<<<<<<< HEAD
 
 public:
 	AMyActor();
 
 	virtual void BeginPlay() override;
 
+=======
+	
+public:	
+	AMyActor();
+>>>>>>> main
 };
